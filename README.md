@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="profile.jpg" alt="Isaac Emmanuel" width="180" style="border-radius:50%"/>
+
+<img width="1584" height="1721" alt="1000529069" src="https://github.com/user-attachments/assets/b08d82e4-1068-4ba8-9e2e-fb8a33c2febe" />
 
 # Hi, I'm Isaac Emmanuel 👋
 
@@ -32,6 +33,7 @@ I deliver projects remotely for clients across the **UK, USA, Canada, the Caribb
 | 🏗️ **Lets Estimate** | A cost estimating system that speeds up quantity take-offs and project pricing |
 | 🤖 **Cost Tech AI** | Telegram-based AI quantity surveying bot (Node.js + Groq) that handles text estimation and reads drawings |
 | 🌐 **[EstimateWithIsaac.com](https://estimatewithisaac.com)** | My estimating services site with lead capture, hosted on Netlify |
+<img width="1254" height="1254" alt="1000527834" src="https://github.com/user-attachments/assets/419fa739-3e76-4678-a0bd-61b5be73113a" />
 
 
 ## 🧠 Skills
